@@ -25,12 +25,12 @@ python -m venv venv
 ```
 ## ✅ Acessar ambiente virtual
 
-# ✅ Windows
+#### ✅ Windows
 ```bash
 venv\Scripts\activate
 ```
 
-# ✅ Linux/Mac
+#### ✅ Linux/Mac
 ```bash
 source venv/bin/activate
 ```
