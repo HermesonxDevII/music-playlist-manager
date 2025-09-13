@@ -19,6 +19,7 @@ git clone git@github.com:HermesonxDevII/music-playlist-manager.git
 cd music-playlist-manager
 ```
 
+---
 ### ✅ Criar ambiente virtual
 ```bash
 python -m venv venv
@@ -35,6 +36,7 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
+---
 ### ✅ Instalar dependências
 
 ```bash
