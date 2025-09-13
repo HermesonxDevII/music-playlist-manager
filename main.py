@@ -35,3 +35,11 @@ def get_longest_song() -> Optional[Song]:
     if not playlist:
         return None
     return max(playlist, key=lambda song: song['duration'])
+
+def filter_playlist(filter_function: Callable[[Song], bool]) -> List[Song]:
+    return [song for song in playlist if filter_function(song)]
+
+def create_filter_by_artist(artist_name: str) -> Callable[[Song], bool]:
+    def filter_func(song):
+        return song['artist'].lower() == artist_name.lower()
+    return filter_func
