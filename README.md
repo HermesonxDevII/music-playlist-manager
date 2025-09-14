@@ -57,7 +57,6 @@ python main.py
 | ---------------------------------------- | ---------- | -------------------------- |
 | [Francisco Hermeson O. dos Santos]       | [2326241]  | Desenvolvedor(a)           |
 | [Maria Joselene da Costa C. de Barcelos] | [2314797]  | Desenvolvedor(a)           |
-| [Emannuel Andrelino de S. Leandro]       | [2424124]  | Documentação               |
 | [Francisco Clay Oliveira]                | [2317574]  | Documentação               | 
 | [Francisco Tayson Araujo santos]         | [2323799]  | Testes                     | 
 | [Leonardo Estevão Silva Dos Santos]      | [2315238]  | Testes                     | 
